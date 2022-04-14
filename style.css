@@ -91,6 +91,12 @@ a{
     padding-left: 10px;
 }
 
+.fa-scholar {
+    content: url('assets/images/google-scholar.svg');
+    height: 1em;
+    width: auto;
+}
+
 /* media queres */
 @media(max-width:780px){
     .grid-2{
